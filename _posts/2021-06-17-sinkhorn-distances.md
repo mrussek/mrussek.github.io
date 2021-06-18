@@ -586,4 +586,4 @@ mean(test_ŷ .== test_y)
 
 But at least we learned something! 😊
 
-_I'd like to thank [@barucden](https://github.com/barucden), [@ablaom](https://github.com/ablaom), and [iblis17](https://github.com/iblis17) for adding support in LIBSVM.jl for precomputed kernels, as well as [Marco Cuturi](https://marcocuturi.net/) for the original paper and all his work on optimal transport_
+_I'd like to thank [@barucden](https://github.com/barucden), [@ablaom](https://github.com/ablaom), and [@iblis17](https://github.com/iblis17) for adding support in LIBSVM.jl for precomputed kernels, as well as [Marco Cuturi](https://marcocuturi.net/) for the original paper and all his work on optimal transport_
