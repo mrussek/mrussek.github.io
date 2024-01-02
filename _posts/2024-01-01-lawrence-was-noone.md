@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "A Man of no Consequence: A Brief Review of _Lawrence of Arabia_"
+title:  "A Man of no Consequence: A Brief Review of <em>Lawrence of Arabia</em>"
 date:   2024-01-01
 ---
 _Epistemic status: Un-fact-checked musings_
 
-![https://upload.wikimedia.org/wikipedia/commons/2/2d/Te_lawrence.jpg]
+![https://upload.wikimedia.org/wikipedia/commons/2/2d/Te_lawrence.jpg]()
 
 The film _[Lawrence of Arabia](https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film))_ is the definition classic film. It's probably so classic in fact that you have almost certainly heard about it, even if you've never seen it. This was the case for me until last night, when I finally decided that I needed that particular hole in my cultural knowledge filled.
 
