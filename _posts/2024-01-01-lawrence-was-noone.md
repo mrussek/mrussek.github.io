@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Man of no Consequence: A Brief Review of <em>Lawrence of Arabia</em>"
+title:  "A Man of no Consequence: A Brief Review of _Lawrence of Arabia_"
 date:   2024-01-01
 ---
 _Epistemic status: Un-fact-checked musings_
