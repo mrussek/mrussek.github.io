@@ -5,7 +5,7 @@ date:   2024-01-02
 ---
 _Epistemic status: Technically, a professional opinion_
 
-Today at my work, we had a debate about how libraries should declare the support of their dependencies. Some practices are uncontroversial. In particular, if a library `A` declares a depedency on library `B`, it seems natural for the author of `A` to declare a lower bound on the version of `B`:
+Today at my work, we had a debate about how libraries should declare the support of their dependencies. Some practices are uncontroversial. In particular, if a library `A` declares a dependency on library `B`, it seems natural for the author of `A` to declare a lower bound on the version of `B`:
 
 ```python
 install_requires = [
@@ -33,6 +33,6 @@ However, it does not appear that there is any broadly accepted Python best pract
 
 My team did discuss some strategies for mitigating this issue though. One idea I liked was to have a timed CI job (not a part of the PR pipeline), that tested the library with the most recent allowed versions of the dependencies. This would allow the library author's to quickly discover potential incompatibilities without having to block PRs for reasons unrelated to them.
 
-Another interesting idea was to have a `dependabot` like resource that listened for new releases of dependencies and created PRs automatically for testing them with the library, as well as bumping an upper bound version. This seems more complicated to me, and it forcibly restricts the usage of new versions of dependencies with older versions of the library, but it does allow consumers to guarantee that every version that satisifies the dependency specifier in fact works correctly.
+Another interesting idea was to have a `dependabot` like resource that listened for new releases of dependencies and created PRs automatically for testing them with the library, as well as bumping an upper bound version. This seems more complicated to me, and it forcibly restricts the usage of new versions of dependencies with older versions of the library, but it does allow consumers to guarantee that every version that satisfies the dependency specifier in fact works correctly.
 
 Alas, we decided to have relaxed version specifiers, but I hope someone in the community will decide this for us, so we don't have to spend the time!
