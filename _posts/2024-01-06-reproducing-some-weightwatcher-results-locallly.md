@@ -65,4 +65,4 @@ plt.hist(torch.randn_like(bert.encoder.layer[0].attention.self.query.weight).svd
 
 It seems qualitatively different from the trained matrix results.
 
-Overall, this kind of thing begs to be explored more, and I'm sure the [`weightwatcher`](https://weightwatcher.ai/) have and are going to do so. I just wish it was discussed more frequently.
+Overall, this kind of thing begs to be explored more, and I'm sure the [`weightwatcher`](https://weightwatcher.ai/) folks have and are going to do so. I just wish it was discussed more frequently.
