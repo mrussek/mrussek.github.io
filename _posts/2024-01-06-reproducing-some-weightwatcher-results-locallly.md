@@ -1,5 +1,8 @@
-# Reproducing Some `weightwatcher` Results Locally
-
+---
+layout: post
+title: Reproducing Some weightwatcher Results Locally"
+date: 2024-01-06
+---
 I've always personally thought that some of the results driving the development of the [`weightwatcher`](https://weightwatcher.ai/) library to be fascinating. I understand that they have several papers and explain what they do on their website, but I want to re-confirm one of their core observations, without double-checking to make sure it's true first.
 
 Critically, I faintly recall the claim that the linear layers of trained neural networks have power law distributed singular values, as opposed to values that would be expected of random matrices and derived from random matrix theory (RMT).
