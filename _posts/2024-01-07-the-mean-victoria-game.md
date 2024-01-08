@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is the Mean Victoria 3 Game?"
-date:   2021-06-17
+date:   2024-01-07
 ---
 I'm trying, and failing, to get into _Victoria 3_. Mostly because I lack the time, and the patience, to play what appears to be a detailed economic history simulator. But it does make me wonder; to what extent are the dynamics in Victoria 3 actually the dynamics of history? And how could we figure this out?
 
