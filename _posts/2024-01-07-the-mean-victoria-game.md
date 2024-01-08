@@ -3,7 +3,7 @@ layout: post
 title:  "What is the Mean Victoria 3 Game?"
 date:   2024-01-07
 ---
-I'm trying, and failing, to get into _Victoria 3_. Mostly because I lack the time, and the patience, to play what appears to be a detailed economic history simulator. But it does make me wonder; to what extent are the dynamics in Victoria 3 actually the dynamics of history? And how could we figure this out?
+I'm trying, and failing, to get into _Victoria 3_. Mostly because I lack the time, and the patience, to play what appears to be a detailed economic history simulator. But it does make me wonder; to what extent are the dynamics in _Victoria 3_ actually the dynamics of history? And how could we figure this out?
 
 I had a few ideas to explore this. Nominally, _Victoria 3_ is moddable and so I figure it should be amenable to being controlled by a script that produces rollout of an environment. Furthemore, it should allow AI players to control all countries. So, it should be in principle possible to simulate several thousand games of _Victoria 3_ and see what the progression of the average game entails. How close would this history be to our own? What variance would it exhibit? Are the bulk of games "plausible", historically? It does seem that this is a genre of [Youtube video](https://www.youtube.com/watch?v=WGRkdchoWjs), but I would be curious in a more systematic sampling. The video is revealing though. It does not deviate very far from actual world history, which supports a few observations: the mean _Victoria 3_ game is actually quite close to world history, and that deviations from world history are largely due to player choice.
 
